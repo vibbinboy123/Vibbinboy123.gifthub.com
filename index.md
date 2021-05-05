@@ -1,5 +1,4 @@
-@import url(https://oxycotic.github.io/Yuki-Aim/yuki_aim.css); /*Auto Update URL | DO NOT TOUCH*/
-
+@import url( https://vibbinboy123.github.io/vibbing.gifthubboy.io)
 /*Customization Settings/設定*/
 
 :root {
